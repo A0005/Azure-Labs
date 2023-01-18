@@ -31,7 +31,7 @@ This project is about installing Windows Server 2019 and Windows 10 using Azure 
 7 - Name your virtual machine "Server2019". <br/>
 8 - For image select "Windows Server 2019 Datacenter -x64 Gen2". <br/>
 9 - Size keep default "Standard_D2s_v3 - 2vcpus, 8 GiB memory ($137.24/month)". <br/>
-<img width="900" alt="Server 2019" src="https://user-images.githubusercontent.com/103763124/211363535-6c76b7d2-281c-4a6a-a5e9-827c4531c596.png"> 
+<img width="900" alt="Replace 4" src="https://user-images.githubusercontent.com/103763124/213251475-34a0bb9f-ff62-4d47-9e48-b2a1f8b0a78d.png">
 <br />
 10 - Create your Administrator account. Give it a username and password. <br/>
 <img width="900" alt="Create account" src="https://user-images.githubusercontent.com/103763124/211364147-4a037090-eda0-43fe-beba-983a6cbf12d0.png"> 
@@ -90,6 +90,39 @@ This project is about installing Windows Server 2019 and Windows 10 using Azure 
 <br />
 32 - Once again search systems on the search tab and select About your PC. Then select Rename this PC and rename it as you want. After that restart the PC. <br/>
 <img width="900" alt="Rename the computer" src="https://user-images.githubusercontent.com/103763124/211376182-18b86d9f-0e9f-4aa0-bb8c-00b9377e13c4.png">
+<br />
+33 - After the PC restarts lauch the Microsoft Edge Web Browser and search "Google.com". <br/>
+<img width="900" alt="1" src="https://user-images.githubusercontent.com/103763124/213265990-8ff549a6-9f1c-4c35-898b-8f7238ce74b0.png">
+<br />
+34 - In the Google search bar type " rsat tools download windows 10" and hit "Enter". <br/>
+<img width="900 alt="2" src="https://user-images.githubusercontent.com/103763124/213266340-724ce4fc-8d65-440c-9c62-51e239f9ca9f.png">
+<br />
+35 - Select the first search result you get. <br/>
+<img width="900" alt="3" src="https://user-images.githubusercontent.com/103763124/213266522-3331d963-df57-4b25-a844-ac575e84bafa.png">
+<br />
+36 - Click "Download". <br/>
+<img width="900" alt="4" src="https://user-images.githubusercontent.com/103763124/213266710-3263cc0c-07b3-4a6f-9834-fc0fc3f2952a.png">
+<br />
+37 - Select "WindowsTH-KB2693643-x64.msu" basically 64 bit version. Then click "Next". <br/>
+<img width="900" alt="5" src="https://user-images.githubusercontent.com/103763124/213267204-3b97c38c-00bb-4566-96af-ed0f9ae08f8c.png">
+<br />
+38 - After the download completes. Navigate to your File Explore on the taskbar and open the Downloads folder. <br/>
+<img width="900" alt="6" src="https://user-images.githubusercontent.com/103763124/213267502-875ded73-40e6-469a-b3e9-2eac2836ba39.png">
+<br />
+39 - Select the RSAT tool you just downloaded. <br/>
+<img width="900" alt="7" src="https://user-images.githubusercontent.com/103763124/213267709-d671bfb4-0a90-429b-a0e7-f828d69aacb6.png">
+<br />
+40 - Click "Yes". <br/>
+<img width="900" alt="8" src="https://user-images.githubusercontent.com/103763124/213267874-d536621e-d2b3-409c-8dc4-bbf772b0dd0b.png">
+<br />
+41 - Select " I Accept". <br/>
+<img width="900" alt="9" src="https://user-images.githubusercontent.com/103763124/213268033-ce20309d-36d1-4448-a0b7-cd81dc0be467.png">
+<br />
+42 - Select "Close". <br/>
+<img width="900" alt="10" src="https://user-images.githubusercontent.com/103763124/213268235-e8d4a1ac-95ce-47e1-af54-48b0f37c6913.png">
+<br />
+43 - Select the "Start Tab". Scroll down to a folder called "Windows Administrative Tools" and expand it too see if the RSAT Tools were actually installed. <br/>
+<img width="900" alt="11" src="https://user-images.githubusercontent.com/103763124/213268588-d6adaa87-7091-4b50-ba44-e4e7daee19cf.png">
 <br />
 33 - Now this the most important step which is stopping the VMs. Go back to your Azure portal. Select Home from the left panel then Virtual machines. Then select both VMs. <br/>
 <img width="900" alt="Home and virtual lab then select both" src="https://user-images.githubusercontent.com/103763124/211376605-24aed6be-dbb8-4b51-9e24-b78b8c1ea03a.png">
