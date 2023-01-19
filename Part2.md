@@ -3,7 +3,7 @@
 [YouTube Demonstration by Kevtech IT Support](https://www.youtube.com/watch?v=cfeHXNaYWjU)
 
 <h2>Description</h2>
-This project is about installing Active Directory on a Windows Server 2019 using Azure and creating users using PowerShell.
+This project is about installing Active Directory on a Windows Server 2019 using Azure VM and creating users using PowerShell.
 <br />
 
 
