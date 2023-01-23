@@ -124,12 +124,12 @@ This project is about installing Windows Server 2019 and Windows 10 using Azure 
 43 - Select the "Start Tab". Scroll down to a folder called "Windows Administrative Tools" and expand it too see if the RSAT Tools were actually installed. <br/>
 <img width="900" alt="11" src="https://user-images.githubusercontent.com/103763124/213268588-d6adaa87-7091-4b50-ba44-e4e7daee19cf.png">
 <br />
-33 - Now this the most important step which is stopping the VMs. Go back to your Azure portal. Select Home from the left panel then Virtual machines. Then select both VMs. <br/>
+44 - Now this the most important step which is stopping the VMs. Go back to your Azure portal. Select Home from the left panel then Virtual machines. Then select both VMs. <br/>
 <img width="900" alt="Home and virtual lab then select both" src="https://user-images.githubusercontent.com/103763124/211376605-24aed6be-dbb8-4b51-9e24-b78b8c1ea03a.png">
 <br />
-34 - Select "Stop" from the top navigation bar. Then select "Yes" to confirm. <br/>
+45 - Select "Stop" from the top navigation bar. Then select "Yes" to confirm. <br/>
 <img width="900" alt="Select yes" src="https://user-images.githubusercontent.com/103763124/211376628-81056248-0e75-4be4-9246-daabfab8cf1f.png">
-35 - This is the confirmation after stopping your VMs. Status says "Stopped (deallocated)". <br/>
+46 - This is the confirmation after stopping your VMs. Status says "Stopped (deallocated)". <br/>
 <img width="900" alt="Confirmed stopped" src="https://user-images.githubusercontent.com/103763124/211376596-4da32410-6328-4750-b98d-04c7e612dc87.png">
 </p>
 
