@@ -151,7 +151,7 @@ This project is about installing Active Directory on a Windows Server 2019 using
 51 - Confirm to "Stop". <br/>
 <img width="900" alt="Confirm to stop" src="https://user-images.githubusercontent.com/103763124/212570463-effa555c-bcd7-4116-b7ca-dbe81f09f941.png">
 <br />
-49 - Confirmation of the Server 2019 has been stopped. <br/>
+52 - Confirmation of the Server 2019 has been stopped. <br/>
 <img width="900" alt="Verication of Stopped" src="https://user-images.githubusercontent.com/103763124/212570470-ed3d884a-1a4e-4898-aa90-cb4e7d2605d0.png">
 <br />
 </p>
