@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 This project is about setting up a Static IP for the PC. Joining the Windows 10 PC to the domain. Creating a back up admin account and adding it to the Adminsistrators group.
-Disabling the built-in account. Adding the user Jimmy to the Remote Mangement Users so we remote into his account. Changing some Group Policies. 
+Disabling the built-in account. Adding the user Jimmy to the Remote Management Users so we remote into his account. Changing some Group Policies. 
 Remoting in as the domain admin helpdesk account. Mapping a folder and sharing it. Logging in as a user.
 <br />
 
