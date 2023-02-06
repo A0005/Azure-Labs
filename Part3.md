@@ -147,7 +147,7 @@ Remoting in as the domain admin helpdesk account. Mapping a folder and sharing i
 49 - Select the "helpdesk" account. <br/>
 <img width="900 alt="54" src="https://user-images.githubusercontent.com/103763124/214130570-cc26fd84-5434-46a7-bd21-01ceb0c536f0.png">
 <br />
-50 - Select "Disable account" and the "Apply" then "OK". <br/>
+50 - Select "Disable account" and then "Apply" then "OK". <br/>
 <img width="900" alt="55" src="https://user-images.githubusercontent.com/103763124/214130843-27f68abb-e63f-4be3-b728-b4589daaabb5.png">
 <br />
 51 - Now select the "Groups" tab from the left column. Double click on "Remote Manamgement". <br/>
@@ -237,127 +237,124 @@ Remoting in as the domain admin helpdesk account. Mapping a folder and sharing i
 81  - Open "Server Manager" then select "File and Storage Services". Here we are going to create a shared folder. <br/>
 <img width="900" alt="109" src="https://user-images.githubusercontent.com/103763124/216996305-144ec5cd-9b71-47df-9b2c-21ac032c4e2d.png">
 <br />
-82  - Open "Server Manager" then select "File and Storage Services". Here we are going to create a shared folder. <br/>
-<img width="900" alt="109" src="https://user-images.githubusercontent.com/103763124/216996305-144ec5cd-9b71-47df-9b2c-21ac032c4e2d.png">
-<br />
-83  - Select "Shares" then right click on the empty area and select "New Share...". <br/>
+82  - Select "Shares" then right click on the empty area and select "New Share...". <br/>
 <img width="900" alt="201" src="https://user-images.githubusercontent.com/103763124/217001670-2f0f68aa-b76f-4176-9ccb-771b9ff8ab1a.png">
 <br />
-84  - Select "Next". <br/>
+83  - Select "Next". <br/>
 <img width="900" alt="202" src="https://user-images.githubusercontent.com/103763124/217002541-774b3431-1947-468f-b802-e1361988dc4a.png">
 <br />
-85  - Select "Next" again. <br/>
+84  - Select "Next" again. <br/>
 <img width="900" alt="203" src="https://user-images.githubusercontent.com/103763124/217002560-772ddd02-bfa9-4dae-b697-99e08a50e375.png">
 <br />
-86  - Called it your domain name and hit "Next". <br/>
+85  - Called it your domain name and hit "Next". <br/>
 <img width="900" alt="204" src="https://user-images.githubusercontent.com/103763124/217002572-31b484cb-24a7-4cb5-831a-fa74f13c99b2.png">
 <br />
-87  - Select "Next". <br/>
+86  - Select "Next". <br/>
 <img width="900" alt="205" src="https://user-images.githubusercontent.com/103763124/217002593-f098a87a-9226-4414-8348-e0c697c09016.png">
 <br />
-88  - Select "Next" again. <br/>
+87  - Select "Next" again. <br/>
 <img width="900" alt="206" src="https://user-images.githubusercontent.com/103763124/217002626-e384f250-46f4-4b0f-858a-714aba27126c.png">
 <br />
-89  - Select "Create". <br/>
+88  - Select "Create". <br/>
 <img width="900" alt="207" src="https://user-images.githubusercontent.com/103763124/217002644-18ff3bfe-7a8c-4ec7-8779-6c3b88c1eee8.png">
 <br />
-90  - Then "Close". <br/>
+89  - Then "Close". <br/>
 <img width="900" alt="208" src="https://user-images.githubusercontent.com/103763124/217002669-21ac0742-e23b-4084-bac7-d14013b870ed.png">
 <br />
-91  - Now open file explore. Then the C drive. <br/>
+90  - Now open file explore. Then the C drive. <br/>
 <img width="900" alt="209" src="https://user-images.githubusercontent.com/103763124/217002683-becb5f78-1f8a-4393-b77a-b938462141ed.png">
 <br />
-92  - Select "Shares". <br/>
+91  - Select "Shares". <br/>
 <img width="900" alt="210" src="https://user-images.githubusercontent.com/103763124/217002703-b29f1b71-93d7-4a65-b449-54f650c6e293.png">
 <br />
-93  - Then select "your domain folder". <br/>
+92  - Then select "your domain folder". <br/>
 <img width="900" alt="211" src="https://user-images.githubusercontent.com/103763124/217004999-b4036d62-977e-4722-8bdf-07217a70a8a2.png">
 <br />
-94  -  Here "right click" then select "New" then "Folder". <br/>
+93  -  Here "right click" then select "New" then "Folder". <br/>
 <img width="900" alt="214" src="https://user-images.githubusercontent.com/103763124/217005115-332ad79e-4cc3-46c2-adb1-2844b384aa81.png">
 <br />
-95  - Name it "Home". <br/>
+94  - Name it "Home". <br/>
 <img width="900" alt="215" src="https://user-images.githubusercontent.com/103763124/217005155-4c856246-8b86-410b-b3e6-31d7c3fbb86e.png">
 <br />
-96  - Right click the "Home" folder and select "Properties". <br/>
+95  - Right click the "Home" folder and select "Properties". <br/>
 <img width="900" alt="216" src="https://user-images.githubusercontent.com/103763124/217005200-1a15d66b-39bc-4e26-b0f3-5885cabc111d.png">
 <br />
-97  - Select the "Sharing" tab. <br/>
+96  - Select the "Sharing" tab. <br/>
 <img width="900" alt="217" src="https://user-images.githubusercontent.com/103763124/217007182-ea610e0c-4f16-4757-aa8a-30aa4afba935.png">
 <br />
-98  - Then select "Advanced Sharing...". <br/>
+97  - Then select "Advanced Sharing...". <br/>
 <img width="900" alt="218" src="https://user-images.githubusercontent.com/103763124/217007207-e9751d13-9191-4130-847f-3989cce1cad2.png">
 <br />
-99  - Then check the box that says "Share this folder". Then select "OK". Now select the "Security" tab. <br/>
+98  - Then check the box that says "Share this folder". Then select "OK". Now select the "Security" tab. <br/>
 <img width="900" alt="219" src="https://user-images.githubusercontent.com/103763124/217007225-c758e1b6-41e4-4eb8-affa-255fd79c1195.png">
 <br />
-100  -  Select "Advanced". <br/>
+99  -  Select "Advanced". <br/>
 <img width="900" alt="220" src="https://user-images.githubusercontent.com/103763124/217007261-bf80415c-171d-42af-8afc-b165520a05de.png">
 <br />
-101  -  Select "Disable inheritance". <br/>
+100  -  Select "Disable inheritance". <br/>
 <img width="900" alt="221" src="https://user-images.githubusercontent.com/103763124/217007277-4108a7a5-dcfa-4d8f-b519-bf5067928f55.png">
 <br />
-102  - Then choose the first one that says "Convert...". <br/>
+101  - Then choose the first one that says "Convert...". <br/>
 <img width="900" alt="222" src="https://user-images.githubusercontent.com/103763124/217007295-b431bafb-de61-41fe-8716-d7651c4750d1.png">
 <br />
-103  - Select on "Users" then "Remove". <br/>
+102  - Select on "Users" then "Remove". <br/>
 <img width="900" alt="223" src="https://user-images.githubusercontent.com/103763124/217007312-6ce0ef6c-73b0-4046-9678-49a0002c1cdd.png">
 <br />
-104  - Now select "Add". <br/>
+103  - Now select "Add". <br/>
 <img width="900" alt="224" src="https://user-images.githubusercontent.com/103763124/217007323-f4427212-3cd0-4ba9-9f66-98bc30d12c53.png">
 <br />
-105  - Choose "Select a principle". <br/>
+104  - Choose "Select a principle". <br/>
 <img width="900" alt="225" src="https://user-images.githubusercontent.com/103763124/217007354-aee16326-dd51-4aae-9c82-45a923f44204.png">
 <br />
-106  - Enter in "Jimmy" the hit "Check Names" then choose "OK". <br/>
+105  - Enter in "Jimmy" the hit "Check Names" then choose "OK". <br/>
 <img width="900" alt="226" src="https://user-images.githubusercontent.com/103763124/217007369-474a41a3-74b9-40d8-82e2-d96cb1fc7c86.png">
 <br />
-107  - Check the box that says "Modify" then select "OK". <br/>
+106  - Check the box that says "Modify" then select "OK". <br/>
 <img width="900" alt="227" src="https://user-images.githubusercontent.com/103763124/217007381-374b1924-7f19-49d1-b5cc-ae13e3c9f545.png">
 <br />
-108  - Select "Apply" then "OK". <br/>
+107  - Select "Apply" then "OK". <br/>
 <img width="900" alt="228" src="https://user-images.githubusercontent.com/103763124/217007398-b276f1f9-c533-4f67-84ae-f07585497ab9.png">
 <br />
-109  - Select the "Sharing" tab then "Share...". <br/>
+108  - Select the "Sharing" tab then "Share...". <br/>
 <img width="900" alt="229" src="https://user-images.githubusercontent.com/103763124/217007418-301fcaff-a51b-4e88-8e79-5e86a98fb2b8.png">
 <br />
-110  - Select on the drop down arrow on Jimmy’s "Permission Level" and choose "Read/Write". <br/>
+109  - Select on the drop down arrow on Jimmy’s "Permission Level" and choose "Read/Write". <br/>
 <img width="900" alt="230" src="https://user-images.githubusercontent.com/103763124/217008291-8a3f25a2-4bcd-4087-b41c-e33475e506f3.png">
 <br />
-111  - Then select "Share". <br/>
+110  - Then select "Share". <br/>
 <img width="900" alt="231" src="https://user-images.githubusercontent.com/103763124/217014127-88919ff7-30b0-4e1b-9c41-f2b5e12bc378.png">
 <br />
-112  - Then select "Done". <br/>
+111  - Then select "Done". <br/>
 <img width="900" alt="232" src="https://user-images.githubusercontent.com/103763124/217014183-3023ca4b-68d2-4dd1-abd5-5fd1c1148c10.png">
 <br />
-113  - Copy the "Network Path:". <br/>
+112  - Copy the "Network Path:". <br/>
 <img width="900" alt="233" src="https://user-images.githubusercontent.com/103763124/217014200-80b5ffc7-699e-4f4f-b028-7a360ff8cfa5.png">
 <br />
-114  - Open "Active Directory Users and Computers".  <br/>
+113  - Open "Active Directory Users and Computers".  <br/>
 <img width="900" alt="234" src="https://user-images.githubusercontent.com/103763124/217014215-7fc001e5-1c83-4194-95f3-6078d65a7dcb.png">
 <br />
-115  - Select on "Users" then "Jimmy" and select the "Profile" tab. <br/>
+114  - Select on "Users" then "Jimmy" and select the "Profile" tab. <br/>
 <img width="900" alt="235" src="https://user-images.githubusercontent.com/103763124/217022989-de855727-0464-4e7c-824e-a97a76a5f449.png">
 <br />
-116  - For "Connect" choose the H drive and paste in the Network Path that you prevent copied. <br/>
+115  - For "Connect" choose the H drive and paste in the Network Path that you previously copied. <br/>
 <img width="900" alt="238" src="https://user-images.githubusercontent.com/103763124/217014308-9c84e172-55dc-4e98-8f73-2314834089b3.png">
 <br />
-117  - Select "Apply" then "Yes" then "OK". <br/>
+116  - Select "Apply" then "Yes" then "OK". <br/>
 <img width="900" alt="239" src="https://user-images.githubusercontent.com/103763124/217014378-069c2719-fbbb-44f2-a2bd-23f28178d0da.png">
 <br />
-118  - Now remote in into the Windows 10 PC and log in with Jimmy’s credentials. <br/>
+117  - Now remote in into the Windows 10 PC and log in with Jimmy’s credentials. <br/>
 <img width="900" alt="241" src="https://user-images.githubusercontent.com/103763124/217024307-e27622ca-3755-433e-a9b6-c494fc51fcdd.png">
 <br />
-119  - Open the File Explore then select "This PC" and you will see the shared drive. Open the shared drive which is the H drive. <br/>
+118  - Open the File Explore then select "This PC" and you will see the shared drive. Open the shared drive which is the H drive. <br/>
 <img width="900" alt="242" src="https://user-images.githubusercontent.com/103763124/217024281-d15b907e-38c2-458c-ac60-a97d0a924b98.png">
 <br />
-120  - Right Click and select "New" then "Text Document". <br/>
+119  - Right Click and select "New" then "Text Document". <br/>
 <img width="900" alt="243" src="https://user-images.githubusercontent.com/103763124/217024300-73ff1812-9012-474b-bc66-08dae9aa892c.png">
 <br />
-121  - Name it "Text". <br/>
+120  - Name it "Test". <br/>
 <img width="900" alt="244" src="https://user-images.githubusercontent.com/103763124/217024335-031c2a77-2793-4481-822a-5147143b308c.png">
 <br />
-122  - Now if you go back the server and open the shared folder that was called "Home" you will see the "Text" document also available. <br/>
+121  - Now if you go back the server and open the shared folder that was called "Home" you will see the "Test" document also available. <br/>
 <img width="900" alt="245" src="https://user-images.githubusercontent.com/103763124/217024367-032b6841-75e2-4b4c-bb55-870f8ec435ed.png">
 <br />
 </p>
