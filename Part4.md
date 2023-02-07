@@ -3,7 +3,7 @@
 [YouTube Demonstration by Kevtech IT Support](https://www.youtube.com/watch?v=RnJKaE26zHw)
 
 <h2>Description</h2>
-This project is about troubleshooting a users locked out account, disabled account, and expired account. Created logon hours policy.
+This project is about troubleshooting a users locked out account, disabled account, and expired account. Created a logon hours policy.
 <br />
 
 
